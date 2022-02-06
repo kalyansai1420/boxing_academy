@@ -1,0 +1,33 @@
+.navbar-custom
+{
+	background-color: #f00793;
+}
+
+#useracademy,#userenrolledcourse
+{
+	padding: 0 100px;
+}
+.flex-fill
+{
+	padding: 50px;
+}
+#searchBox
+{
+	padding: 5px;
+	width: 70%;
+}
+#searchButton
+{
+	background: #f00793;
+	color: aliceblue;
+	padding: 5px;
+	width: 20%;
+	border: 1px;
+}
+table {
+    border-collapse: collapse;
+}
+td
+{
+    border: none;
+}

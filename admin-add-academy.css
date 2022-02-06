@@ -1,0 +1,73 @@
+.navbar-custom {
+	background-color: #33831a;
+}
+
+li {
+	padding: 0 25px;
+}
+
+.flex-fill {
+	padding: 50px;
+}
+
+#searchBox {
+	padding: 5px;
+	width: 70%;
+}
+
+.navbar-collapse {
+	justify-content: center;
+}
+
+.option {
+	display: flex;
+	justify-content: space-between;
+	padding:  0 5px;
+}
+
+#searchButton {
+	background: #33831a;
+	color: aliceblue;
+	padding: 5px;
+	width: 20%;
+	border: 1px;
+}
+
+.flex {
+	align-items: center;
+	justify-content: center;
+}
+
+.card {
+	margin: 25px;
+	align-items: center;
+	display: inline-block;
+	border-radius: 10px;
+	border: 1px solid #33831a;
+}
+
+img {
+	border-radius: 4px;
+	width: 200px;
+	height: 150px;
+}
+
+p {
+	text-align: center;
+}
+
+.container.add-academy-btn {
+	width: 100vw;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+#add-academy-btn {
+	background-color: rgb(211, 211, 211);
+	width: fit-content;
+	padding: .6em 1em;
+	text-align: right;
+	margin-bottom: 2em;
+}

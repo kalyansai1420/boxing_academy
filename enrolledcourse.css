@@ -1,0 +1,20 @@
+.navbar-custom
+{
+	background-color: #f00793;
+}
+
+#useracademy,#userenrolledcourse
+{
+	padding: 0 100px;
+}
+
+.container
+{
+	margin: 25px;
+	align-items: center;
+	display: inline-block;
+}
+td
+{
+    border: none;
+}

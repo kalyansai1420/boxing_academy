@@ -1,0 +1,47 @@
+.navbar-custom
+{
+	background-color: #f00793;
+}
+
+#useracademy,#userenrolledcourse
+{
+	padding: 0 100px;
+}
+.flex-fill
+{
+	padding: 50px;
+}
+#searchBox
+{
+	padding: 5px;
+	width: 70%;
+}
+#searchButton
+{
+	background: #f00793;
+	color: aliceblue;
+	padding: 5px;
+	width: 20%;
+	border: 1px;
+}
+.flex
+{
+	align-items: center;
+	justify-content: center;
+}
+.card
+{
+	margin: 25px;
+	align-items: center;
+	display: inline-block;
+	border-radius: 10px;
+	border:1px solid rgb(226, 15, 180)
+}
+img {
+	border-radius: 4px;
+	width: 200px;
+	height: 150px;
+}
+p{
+	text-align: center;
+}

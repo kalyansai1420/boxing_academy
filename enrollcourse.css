@@ -1,0 +1,38 @@
+.navbar-custom
+{
+	background-color: #f00793;
+}
+
+#useracademy,#userenrolledcourse
+{
+	padding: 0 100px;
+}
+#enrollcourse
+{
+    background-color: #80ffe5;
+}
+form
+{
+    padding: 50px 100px 10px 100px;
+}
+.form-group
+{
+    justify-content: center;
+    padding:10px;
+    width: 100%;
+
+}
+.form-item
+{
+    padding: 10px;
+}
+select
+{
+    padding: 5px 2px; 
+    width: 100%;  
+    border: none;   
+}
+#enrollnowButton
+{
+    width: 150px;
+}
